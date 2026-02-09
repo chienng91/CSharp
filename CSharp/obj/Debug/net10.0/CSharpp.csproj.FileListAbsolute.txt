@@ -1,0 +1,14 @@
+C:\Users\chien\OneDrive\Tài liệu\Project\CSharp\CSharpp\CSharpp\obj\Debug\net10.0\CSharpp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chien\OneDrive\Tài liệu\Project\CSharp\CSharpp\CSharpp\obj\Debug\net10.0\CSharpp.AssemblyInfoInputs.cache
+C:\Users\chien\OneDrive\Tài liệu\Project\CSharp\CSharpp\CSharpp\obj\Debug\net10.0\CSharpp.AssemblyInfo.cs
+C:\Users\chien\OneDrive\Tài liệu\Project\CSharp\CSharpp\CSharpp\obj\Debug\net10.0\CSharpp.csproj.CoreCompileInputs.cache
+C:\Users\chien\OneDrive\Tài liệu\Project\CSharp\CSharpp\CSharpp\bin\Debug\net10.0\CSharpp.exe
+C:\Users\chien\OneDrive\Tài liệu\Project\CSharp\CSharpp\CSharpp\bin\Debug\net10.0\CSharpp.deps.json
+C:\Users\chien\OneDrive\Tài liệu\Project\CSharp\CSharpp\CSharpp\bin\Debug\net10.0\CSharpp.runtimeconfig.json
+C:\Users\chien\OneDrive\Tài liệu\Project\CSharp\CSharpp\CSharpp\bin\Debug\net10.0\CSharpp.dll
+C:\Users\chien\OneDrive\Tài liệu\Project\CSharp\CSharpp\CSharpp\bin\Debug\net10.0\CSharpp.pdb
+C:\Users\chien\OneDrive\Tài liệu\Project\CSharp\CSharpp\CSharpp\obj\Debug\net10.0\CSharpp.dll
+C:\Users\chien\OneDrive\Tài liệu\Project\CSharp\CSharpp\CSharpp\obj\Debug\net10.0\refint\CSharpp.dll
+C:\Users\chien\OneDrive\Tài liệu\Project\CSharp\CSharpp\CSharpp\obj\Debug\net10.0\CSharpp.pdb
+C:\Users\chien\OneDrive\Tài liệu\Project\CSharp\CSharpp\CSharpp\obj\Debug\net10.0\CSharpp.genruntimeconfig.cache
+C:\Users\chien\OneDrive\Tài liệu\Project\CSharp\CSharpp\CSharpp\obj\Debug\net10.0\ref\CSharpp.dll
