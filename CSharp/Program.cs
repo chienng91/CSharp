@@ -2,7 +2,7 @@ namespace CSharpp;
 
 public class Program
 {
-    static void Main()
+    private static void Main()
     {
         Console.WriteLine("Chon chuong trinh");
         Console.WriteLine("1.0. Bai tap ve Fan");
@@ -18,7 +18,10 @@ public class Program
         Console.WriteLine("5.1 Bai tap ve Animal");
         Console.WriteLine("5.2 Bai tap ve NhanVien");
         Console.WriteLine("5.3 Bai tap ve TaiKhoan");
-        string choice = Console.ReadLine();
+        Console.WriteLine("6.1 Information Manager  ");
+        Console.WriteLine("6.2 Interface  ");
+        Console.WriteLine("6.3 BaiTap  ");
+        var choice = Console.ReadLine();
         switch (choice)
 
         {
@@ -35,6 +38,9 @@ public class Program
             case "5.1": RunAnimal.Run(); break;
             case "5.2": RunNhanVien.Run(); break;
             case "5.3": RunTaiKhoan.Run(); break;
+            case  "6.1":  RunSoftware.Run(); break;
+            case "6.2": BaiTap03.Program.Run(); break;
+            case "6.3": RunIPlayable.Run(); break;
         }
     }
 }
