@@ -1,4 +1,4 @@
-using System;
+namespace CSharpp;
 
 public interface IPlayable
 {
@@ -54,7 +54,7 @@ public class PlayAVideoGame : Entertaiment, IReminder
     public string Genre {get; set;}
     public int NumberOfPlayers {get; set;}
     public PlayAVideoGame(string title, string genre, int numberOfPlayers, int duration)
-    :base(title, duration)
+        :base(title, duration)
     {
         Genre = genre;
         NumberOfPlayers = numberOfPlayers;
